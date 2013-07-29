@@ -2,11 +2,11 @@ import requests, sys, time
 from time import gmtime, strftime
 
 # configurations
-rec_id= '72584584'
-tkn = '8b6c3516b4013ee3cf10230fdcd6395048d54'
-email = 'ali.glider@gmail.com'
-domain = 'apjd.de'
-sub_name= 'sub'
+rec_id= ''
+tkn = ''
+email = ''
+domain = ''
+sub_name= ''
 
 
 def get_current_ip():
